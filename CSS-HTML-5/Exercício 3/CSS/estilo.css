@@ -1,0 +1,72 @@
+body{
+    background-color: beige;
+}
+
+.div{    
+    border: 1px;
+    border-radius: 10px;
+    background-color: rgb(90, 76, 151);
+    padding-bottom: 1px;
+    padding-top: 10px;
+    margin-right: 520px;   
+    
+}
+
+h2{
+    margin-left: 10px;
+    color:white;
+}
+
+
+
+.h4{
+    margin-left: 10px;
+    margin-top: -15px;
+    color:white;
+}
+
+.p{
+    margin-left: 320px;
+    margin-top: 30px;
+    color:aquamarine
+}
+
+.mirante{
+    margin-left: 10px;
+    margin-top: 10px;
+    float:left
+    
+    
+}
+
+.estrada1{
+    clear:left
+}
+
+.estrada{
+    margin-left: 10px;
+    float: left;
+}
+
+.parque2{  
+    clear: left;
+}
+
+.parque{
+    margin-left: 10px;    
+    float: left;
+}
+
+hr{
+    margin-left: 10px;
+    margin-right: 10px;
+    clear: left;
+    border: 1px dashed aquamarine;
+}
+
+.p2{
+    margin-left: 280px;
+    margin-top: 30px;
+    color:aquamarine
+}
+

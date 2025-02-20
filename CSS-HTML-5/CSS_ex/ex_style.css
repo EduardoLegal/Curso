@@ -1,0 +1,50 @@
+fieldset{
+    background-color: brown;
+    border:3px solid black;
+    border-radius: 25px;
+    margin:3px;
+    padding:5
+}
+
+legend{
+    font-weight: bold;
+    
+}
+
+input{
+    border-radius: 5px;
+    height: 20px;
+    
+    
+}
+
+textarea{
+    border-radius: 5px;
+    border:2px solid;
+    resize: none;
+    width: 25em;
+
+    
+
+    
+}
+label{
+    cursor:pointer;
+    
+}
+
+label:hover{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    
+}
+.botao{
+    background-color: rgb(85, 7, 7);
+    color:rgb(255, 255, 255)
+    
+}
+.botao:hover{
+    background-color: rgb(206, 1, 1);
+}
+
+
